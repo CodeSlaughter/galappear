@@ -40,3 +40,20 @@ body {
 .card-content{
     color: $primary-color;
 }
+
+.page-footer {
+    background-color: $secondary-color;
+    .footer-copyright {
+        background-color: $secondary-color-light
+    }
+}
+
+.modal {
+    color: #333333;
+}
+
+.row-1,
+.row-2,
+.row-3 {
+    opacity: 0;
+}
